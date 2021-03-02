@@ -12,20 +12,22 @@ extern "C" {
 int read_file_line_counts(const char* file_name, int* line_count, int* max_line_length);
 
 int read_init_config(const char* config_file, et_model* model,
-                     double* instantaneous_et_rate_m_per_s,
-                     double* psychrometric_constant_Pa_per_C,
-                     double* slope_sat_vap_press_curve_Pa_s,
-                     double* air_saturation_vapor_pressure_Pa,
-                     double* air_actual_vapor_pressure_Pa,
-                     double* moist_air_density_kg_per_m3,
-                     double* water_latent_heat_of_vaporization_J_per_kg,
-                     double* moist_air_gas_constant_J_per_kg_K,
-                     double* moist_air_specific_humidity_kg_per_m3,
-                     double* vapor_pressure_deficit_Pa,
-                     double* liquid_water_density_kg_per_m3,
-                     double* lambda_et,
-                     double* delta,
-                     double* gamma)
+                     char* forcing_file,
+                     bool* yes_aorc,
+                     bool* yes_wrf,
+                     bool* et_options,
+                     double* wind_speed_measurement_height_m,
+                     double* humidity_measurement_height_m,
+                     double* vegetation_height_m,
+                     double* zero_plane_displacement_height_m,
+                     double* momentum_transfer_roughness_length,
+                     double* heat_transfer_roughness_length_m,
+                     double* surface_longwave_emissivity,
+                     double* surface_shortwave_albedo,
+                     bool* cloud_base_height_known,
+                     double* latitude_degrees,
+                     double* longitude_degrees,
+                     double* site_elevation_m)
 
 Bmi* register_bmi(Bmi *model);
 
