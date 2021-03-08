@@ -163,6 +163,8 @@ TEST_F(EtCalcKernelTest, TestAerodynamicMethod)
                                    &set_et_options, &et_params, &et_forcing, 
                                    &surf_rad_params, &surf_rad_forcing);
 
+  
+  puts("Greetings, human!");
   //EXPECT_DOUBLE_EQ (8.977490e-08, et_m_per_s);
   EXPECT_LT(abs(et_m_per_s-8.977490e-08), 1.0e-08);
   ASSERT_TRUE(true);
