@@ -101,3 +101,7 @@ temp/
 
 # Shared Library Example Build Directory
 extern/cfe/cmake_cfe_lib
+
+#jmframe
+z_trash/
+z_old/

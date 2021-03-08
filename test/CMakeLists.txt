@@ -108,6 +108,7 @@ add_automated_test(
         models/hymod/include/Reservoir_Test.cpp
         models/hymod/include/Reservoir_Timeless_Test.cpp
         models/tshirt/include/TshirtTest.cpp
+        models/hymod/include/Et_All_Methods_Test.cpp
         realizations/catchments/Tshirt_C_Realization_Test.cpp
         geojson/JSONProperty_Test.cpp
         geojson/JSONGeometry_Test.cpp
@@ -130,6 +131,7 @@ add_automated_test_w_mock(
         models/hymod/include/Reservoir_Test.cpp
         models/hymod/include/Reservoir_Timeless_Test.cpp
         models/tshirt/include/TshirtTest.cpp
+        models/hymod/include/Et_All_Methods_Test.cpp
         realizations/catchments/Tshirt_C_Realization_Test.cpp
         geojson/JSONProperty_Test.cpp
         geojson/JSONGeometry_Test.cpp
@@ -139,4 +141,10 @@ add_automated_test_w_mock(
         simulation_time/Simulation_Time_Test.cpp
         core/catchment/giuh/GIUH_Test.cpp
         realizations/Formulation_Manager_Test.cpp
+)
+
+add_automated_test(
+        et_test
+#        models/hymod/include/Et_All_Methods_Test.cpp
+        models/hymod/include/Et_main_test.cpp
 )
