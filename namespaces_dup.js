@@ -1,24 +1,20 @@
 var namespaces_dup =
 [
     [ "bmi", "namespacebmi.html", "namespacebmi" ],
-    [ "et", "namespaceet.html", "namespaceet" ],
-    [ "forcing", "namespaceforcing.html", "namespaceforcing" ],
+    [ "data_access", "namespacedata__access.html", "namespacedata__access" ],
+    [ "external", "namespaceexternal.html", "namespaceexternal" ],
     [ "geojson", "namespacegeojson.html", "namespacegeojson" ],
-    [ "giuh", "namespacegiuh.html", "namespacegiuh" ],
     [ "hy_features", "namespacehy__features.html", "namespacehy__features" ],
+    [ "logging", "namespacelogging.html", [
+      [ "critical", "namespacelogging.html#aaa6addcd244d71933234c851ad827383", null ],
+      [ "debug", "namespacelogging.html#ab974964045c6542ec5e35cf12afdbe62", null ],
+      [ "error", "namespacelogging.html#a57fd6163eef35abcd6fd2b225842dc05", null ],
+      [ "info", "namespacelogging.html#ab013f7af1de2527ea402979e0d8e723b", null ],
+      [ "warning", "namespacelogging.html#abbe2cbb6dacd04158dd9591797d854b8", null ]
+    ] ],
     [ "models", "namespacemodels.html", "namespacemodels" ],
     [ "network", "namespacenetwork.html", "namespacenetwork" ],
-    [ "nexus", "namespacenexus.html", "namespacenexus" ],
+    [ "ngen", "namespacengen.html", "namespacengen" ],
     [ "realization", "namespacerealization.html", "namespacerealization" ],
-    [ "Reservoir", "namespace_reservoir.html", "namespace_reservoir" ],
-    [ "std", null, [
-      [ "_Unique_if", "structstd_1_1___unique__if.html", "structstd_1_1___unique__if" ],
-      [ "_Unique_if< T[]>", "structstd_1_1___unique__if_3_01_t_0f_0e_4.html", "structstd_1_1___unique__if_3_01_t_0f_0e_4" ],
-      [ "_Unique_if< T[N]>", "structstd_1_1___unique__if_3_01_t_0f_n_0e_4.html", "structstd_1_1___unique__if_3_01_t_0f_n_0e_4" ],
-      [ "make_unique", "unique_8hpp.html#a300958e41ca196cf6108a2b91a363b1c", null ],
-      [ "make_unique", "unique_8hpp.html#adf12c752a5b1bdeb568aa5bf2086dd16", null ],
-      [ "make_unique", "unique_8hpp.html#a114e9c954eee68b8f2058949ef4c8345", null ]
-    ] ],
-    [ "tshirt", "namespacetshirt.html", "namespacetshirt" ],
     [ "utils", "namespaceutils.html", "namespaceutils" ]
 ];

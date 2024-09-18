@@ -1,14 +1,21 @@
-<map id="realization::Bmi_Module_Formulation&lt; M &gt;" name="realization::Bmi_Module_Formulation&lt; M &gt;">
-<area shape="rect" id="node1" title="Abstraction of a formulation with a single backing model object that implements the BMI." alt="" coords="353,1465,550,2496"/>
-<area shape="rect" id="node11" href="$classrealization_1_1_bmi___module___formulation.html" title=" " alt="" coords="353,2573,550,3619"/>
-<area shape="rect" id="node2" href="$classrealization_1_1_bmi___formulation.html" title="Abstraction of formulation with backing model object(s) that implements the BMI." alt="" coords="353,855,550,1416"/>
-<area shape="rect" id="node3" href="$classrealization_1_1_catchment___formulation.html" title=" " alt="" coords="207,567,394,805"/>
-<area shape="rect" id="node4" href="$classrealization_1_1_formulation.html" title=" " alt="" coords="5,249,188,517"/>
-<area shape="rect" id="node5" href="$classrealization_1_1_et___aware.html" title="Interface for type that is aware of parameters for evapotranspiration in certain calculations,..." alt="" coords="86,42,230,163"/>
-<area shape="rect" id="node9" href="$classrealization_1_1_et___accountable.html" title="Interface for type that is able to account for evapotranspiration in certain calculations,..." alt="" coords="212,301,389,466"/>
-<area shape="rect" id="node6" href="$class_h_y___catchment_area.html" title=" " alt="" coords="413,301,577,466"/>
-<area shape="rect" id="node7" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="259,5,459,200"/>
-<area shape="rect" id="node8" href="$class_g_m___object.html" title=" " alt="" coords="483,57,598,149"/>
-<area shape="rect" id="node10" href="$classforcing_1_1_forcing_provider.html" title="An abstraction interface for types that provides forcing data." alt="" coords="418,581,586,791"/>
-<area shape="rect" id="node12" href="$classrealization_1_1_bmi___c___formulation.html" title=" " alt="" coords="357,3668,546,3995"/>
+<map id="realization::Bmi_Module_Formulation" name="realization::Bmi_Module_Formulation">
+<area shape="rect" id="Node000001" title="Abstraction of a formulation with a single backing model object that implements the BMI." alt="" coords="193,1785,381,3035"/>
+<area shape="rect" id="Node000009" href="$classrealization_1_1_bmi___c___formulation.html" title=" " alt="" coords="97,3083,275,3323"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="208,3050,204,3083,199,3083,203,3049"/>
+<area shape="rect" id="Node000010" href="$classrealization_1_1_bmi___cpp___formulation.html" title="Encapsulates a bmi::Bmi model in C++ such that it can be loaded as a formulation, as such also so tha..." alt="" coords="299,3083,478,3323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="372,3049,376,3083,371,3083,367,3050"/>
+<area shape="rect" id="Node000002" href="$classrealization_1_1_bmi___formulation.html" title="Abstraction of formulation with backing model object(s) that implements the BMI." alt="" coords="193,895,381,1737"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,1753,290,1785,285,1785,285,1753"/>
+<area shape="rect" id="Node000003" href="$classrealization_1_1_catchment___formulation.html" title=" " alt="" coords="94,492,281,847"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,861,225,895,220,896,214,862"/>
+<area shape="rect" id="Node000004" href="$classrealization_1_1_formulation.html" title=" " alt="" coords="5,219,180,444"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,458,140,492,135,493,126,459"/>
+<area shape="rect" id="Node000005" href="$class_h_y___catchment_area.html" title=" " alt="" coords="205,249,359,414"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="258,429,240,493,234,491,252,427"/>
+<area shape="rect" id="Node000006" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="101,5,292,171"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,184,256,248,251,250,228,186"/>
+<area shape="rect" id="Node000007" href="$class_g_m___object.html" title=" " alt="" coords="317,45,421,131"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="351,145,314,250,309,248,346,143"/>
+<area shape="rect" id="Node000008" href="$classdata__access_1_1_data_provider.html" title=" " alt="" coords="305,525,470,814"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="365,829,355,895,350,895,360,829"/>
 </map>

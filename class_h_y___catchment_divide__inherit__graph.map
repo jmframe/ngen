@@ -1,5 +1,7 @@
 <map id="HY_CatchmentDivide" name="HY_CatchmentDivide">
-<area shape="rect" id="node1" title=" " alt="" coords="109,248,283,369"/>
-<area shape="rect" id="node2" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="5,5,205,200"/>
-<area shape="rect" id="node3" href="$class_g_m___object.html" title=" " alt="" coords="229,57,344,149"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,219,268,344"/>
+<area shape="rect" id="Node000002" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="5,5,196,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,183,161,218,156,220,141,185"/>
+<area shape="rect" id="Node000003" href="$class_g_m___object.html" title=" " alt="" coords="221,45,325,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,145,216,220,211,218,245,143"/>
 </map>

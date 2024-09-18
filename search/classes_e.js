@@ -1,13 +1,9 @@
 var searchData=
 [
-  ['request_5ffrom_5fempty_5fnexus_1184',['request_from_empty_nexus',['../structrequest__from__empty__nexus.html',1,'']]],
-  ['reservoir_1185',['Reservoir',['../class_reservoir_1_1_explicit___time_1_1_reservoir.html',1,'Reservoir::Explicit_Time::Reservoir'],['../class_reservoir_1_1_implicit___time_1_1_reservoir.html',1,'Reservoir::Implicit_Time::Reservoir']]],
-  ['reservoir_5fexponential_5foutlet_1186',['Reservoir_Exponential_Outlet',['../class_reservoir_1_1_explicit___time_1_1_reservoir___exponential___outlet.html',1,'Reservoir::Explicit_Time::Reservoir_Exponential_Outlet'],['../class_reservoir_1_1_implicit___time_1_1_reservoir___exponential___outlet.html',1,'Reservoir::Implicit_Time::Reservoir_Exponential_Outlet']]],
-  ['reservoir_5flinear_5foutlet_1187',['Reservoir_Linear_Outlet',['../class_reservoir_1_1_explicit___time_1_1_reservoir___linear___outlet.html',1,'Reservoir::Explicit_Time::Reservoir_Linear_Outlet'],['../class_reservoir_1_1_implicit___time_1_1_reservoir___linear___outlet.html',1,'Reservoir::Implicit_Time::Reservoir_Linear_Outlet']]],
-  ['reservoir_5foutlet_1188',['Reservoir_Outlet',['../class_reservoir_1_1_explicit___time_1_1_reservoir___outlet.html',1,'Reservoir::Explicit_Time::Reservoir_Outlet'],['../class_reservoir_1_1_implicit___time_1_1_reservoir___outlet.html',1,'Reservoir::Implicit_Time::Reservoir_Outlet']]],
-  ['reservoir_5fparameters_1189',['reservoir_parameters',['../structreservoir__parameters.html',1,'']]],
-  ['reservoir_5fstate_1190',['reservoir_state',['../structreservoir__state.html',1,'']]],
-  ['reservoirkerneltest_1191',['ReservoirKernelTest',['../class_reservoir_kernel_test.html',1,'']]],
-  ['reservoirtimelesskerneltest_1192',['ReservoirTimelessKernelTest',['../class_reservoir_timeless_kernel_test.html',1,'']]],
-  ['routing_5fparams_1193',['routing_params',['../structrouting__params.html',1,'']]]
+  ['partition_5fone_0',['Partition_One',['../class_partition___one.html',1,'']]],
+  ['partitiondata_1',['PartitionData',['../struct_partition_data.html',1,'']]],
+  ['partitions_5fparser_2',['Partitions_Parser',['../class_partitions___parser.html',1,'']]],
+  ['pointfeature_3',['PointFeature',['../classgeojson_1_1_point_feature.html',1,'geojson']]],
+  ['polygonfeature_4',['PolygonFeature',['../classgeojson_1_1_polygon_feature.html',1,'geojson']]],
+  ['preorder_5fvisitor_5',['preorder_visitor',['../structnetwork_1_1preorder__visitor.html',1,'network']]]
 ];

@@ -1,5 +1,7 @@
 <map id="HY_HydroNetwork" name="HY_HydroNetwork">
-<area shape="rect" id="node1" title=" " alt="" coords="75,248,232,384"/>
-<area shape="rect" id="node2" href="$class_g_m___object.html" title=" " alt="" coords="5,57,120,149"/>
-<area shape="rect" id="node3" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="144,5,344,200"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,219,217,364"/>
+<area shape="rect" id="Node000002" href="$class_g_m___object.html" title=" " alt="" coords="5,45,109,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,143,115,218,110,220,78,145"/>
+<area shape="rect" id="Node000003" href="$class_h_y___catchment_realization.html" title=" " alt="" coords="134,5,325,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,186,176,220,171,218,186,183"/>
 </map>
